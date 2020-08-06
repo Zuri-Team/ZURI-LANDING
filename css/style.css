@@ -114,7 +114,7 @@ section.programs {
 .container-fluid {
     margin: 0 auto;
     /*max-width: 1240px;*/
-    text-align: center ;
+    text-align: center;
     /*border: 1px solid red;*/
 }
 
@@ -185,7 +185,7 @@ img.card-bg-svg-2 {
     color: #514949;
 }
 
-.quick-links{
+.quick-links {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -200,7 +200,7 @@ img.card-bg-svg-2 {
 }
 
 .contact p,
-.address p{
+.address p {
     font-size: 14px;
     line-height: 20px;
     color: #514949;
