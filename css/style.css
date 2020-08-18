@@ -10,6 +10,8 @@
 }
 
 
+
+
 .container-fluid {
     max-width: 1440px !important;
 }
@@ -18,11 +20,22 @@
     max-width: 1240px !important;
 }
 
-.logo-img {
+.center-image {
+    margin: auto;
+    display: flex;
+    padding-top: 69px;
+    margin-bottom: 69px;
+}
+
+.center-image img {
+    margin: auto;
+}
+
+/* .logo-img {
     margin-top: 69px;
     margin-left: 100px;
     margin-bottom: 143px;
-}
+} */
 
 .hero-container {
     height: 800px;
