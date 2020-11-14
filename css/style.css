@@ -9,8 +9,15 @@
     /*overflow: hidden;*/
 }
 
+a {
+    color: #E7332B;
+    text-decoration: none;
+}
 
-
+a:hover{
+    text-decoration: none;
+    color: #eb5850;
+}
 
 .container-fluid {
     max-width: 1440px !important;
